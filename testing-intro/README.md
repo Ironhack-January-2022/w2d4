@@ -22,7 +22,7 @@ picture)
 
 ![Alt Text](https://www.shapeblue.com/wp-content/uploads/2018/11/1541174074683725.gif)
 
-## TDD - Test Drive Development 
+## TDD - Test Driven Development 
 
 #### You write the test before you implement a piece of the functionality
 
