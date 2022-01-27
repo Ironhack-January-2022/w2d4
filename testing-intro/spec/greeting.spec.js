@@ -1,7 +1,8 @@
 // this imports the greeting
 const greeting = require('../src/greeting')
 
-// test suite
+
+// terminology: test suite
 describe('The function greeting', function () {
 	// spec - specification 
 	it('should be a function', function () {
